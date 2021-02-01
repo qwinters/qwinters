@@ -29,35 +29,15 @@ tools (see: <a href="https://github.com/qwinters/dotfiles" alt="dotfiles">dotfil
 <a href="https://qwinters.me">
 <img alt="blog" src="https://img.shields.io/badge/Website-qwinters.me-696969?style=flat-square&logo=safari">
 </a>
-</td>
-</tr>
-<tr>
-<td></td>
-<td>
 <a href="mailto:email@quinnwinters.dev">
 <img alt="email" src="https://img.shields.io/badge/Email-email[at]quinnwinters[dot]dev-696969?style=flat-square&logo=microsoft-outlook&logoColor=0078d7">
 </a>
-</td>
-</tr>
-<tr>
-<td></td>
-<td>
 <a href="https://reddit.com/u/quintamoniousmagic">
 <img alt="reddit" src="https://img.shields.io/badge/Reddit-quintamoniousmagic-696969?style=flat-square&logo=reddit">
 </a>
-</td>
-</tr>
-<tr>
-<td></td>
-<td>
 <a href="https://www.goodreads.com/qwinters">
 <img alt="goodreads" src="https://img.shields.io/badge/Goodreads-qwinters-696969?style=flat-square&logo=goodreads&logoColor=ffffff">
 </a>
-</td>
-</tr>
-<tr>
-<td></td>
-<td>
 <a href="https://www.youtube.com/channel/UCwDz6CAd8ifNq5CXetSQc4g">
 <img alt="youtube" src="https://img.shields.io/badge/YouTube-qwinters-696969?style=flat-square&logo=youtube&logoColor=FF0000">
 </a>
