@@ -16,11 +16,18 @@ languages (<a href="https://www.reddit.com/r/math/comments/2d8yqn/recommended_pr
 tools (see: <a href="https://github.com/qwinters/dotfiles" alt="dotfiles">dotfiles</a>)
 </td>
 <td>
+<a href="https://github.com/qwinters/dotfiles/blob/2.0.0/home/tex.snippets">
 <img alt="Latex" src="https://img.shields.io/badge/-LaTeX-696969?style=flat-square&logo=latex&logoColor=5D8AA8">
-<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-696969?style=flat-square&logo=jupyter&logoColor=FFA500">
+</a>
+<a href="https://github.com/qwinters/dotfiles/blob/2.0.0/home/condarc">
+<img alt="Jupyter+Conda" src="https://img.shields.io/badge/-Jupyter+Conda-696969?style=flat-square&logo=jupyter&logoColor=FFA500">
+</a>
+<a href="https://github.com/qwinters/dotfiles/blob/2.0.0/home/vimrc">
 <img alt="Vim" src="https://img.shields.io/badge/-Vim-696969?style=flat-square&logo=vim&logoColor=00d700">
+</a>
+<a href="https://github.com/qwinters/dotfiles/blob/2.0.0/home/tmux.cfg">
 <img alt="Tmux" src="https://img.shields.io/badge/-Tmux-696969?style=flat-square&logo=powershell&logoColor=00ffff">
-<img alt="vscode" src="https://img.shields.io/badge/-VSCode-696969?style=flat-square&logo=visual-studio-code&logoColor=0078d7">
+</a>
 </td>
 </tr>
 <tr>
@@ -35,11 +42,6 @@ tools (see: <a href="https://github.com/qwinters/dotfiles" alt="dotfiles">dotfil
 <a href="https://reddit.com/u/quintamoniousmagic">
 <img alt="reddit" src="https://img.shields.io/badge/Reddit-quintamoniousmagic-696969?style=flat-square&logo=reddit">
 </a>
-<a href="https://www.goodreads.com/qwinters">
-<img alt="goodreads" src="https://img.shields.io/badge/Goodreads-qwinters-696969?style=flat-square&logo=goodreads&logoColor=ffffff">
-</a>
-<a href="https://www.youtube.com/channel/UCwDz6CAd8ifNq5CXetSQc4g">
-<img alt="youtube" src="https://img.shields.io/badge/YouTube-qwinters-696969?style=flat-square&logo=youtube&logoColor=FF0000">
 </a>
 </td>
 </tr>
