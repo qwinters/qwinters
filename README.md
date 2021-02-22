@@ -7,13 +7,16 @@
 | dotfiles: | [qwinters/dotfiles](https://github.com/qwinters/dotfiles)          |
 |  website: | [qwinters.me](https://qwinters.me)                                 | 
 
+
+#### recent productivity
+
 ```shell
 
-2021-02-15:  0
 2021-02-16:  0
 2021-02-17:  0
 2021-02-18:  0
 2021-02-19:  0
 2021-02-20:  0
 2021-02-21: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 13
+2021-02-22: XXXX 1
 ```
