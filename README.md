@@ -46,3 +46,17 @@ tools (see: <a href="https://github.com/qwinters/dotfiles" alt="dotfiles">dotfil
 </td>
 </tr>
 </table>
+
+```shell
+Recent Productivity Graph 
+=================================
+
+2021-02-15:  0
+2021-02-16:  0
+2021-02-17:  0
+2021-02-18:  0
+2021-02-19:  0
+2021-02-20:  0
+2021-02-21:  0
+
+```
