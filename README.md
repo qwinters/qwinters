@@ -7,7 +7,11 @@
 | dotfiles: | [qwinters/dotfiles](https://github.com/qwinters/dotfiles)          |
 |  website: | [qwinters.me](https://qwinters.me)                                 | 
 
+<<<<<<< Updated upstream
 #### recent productivity
+=======
+#### Recent Productivity
+>>>>>>> Stashed changes
 
 ```shell
 
