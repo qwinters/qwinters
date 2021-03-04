@@ -7,7 +7,6 @@
 | dotfiles: | [qwinters/dotfiles](https://github.com/qwinters/dotfiles)          |
 |  website: | [qwinters.me](https://qwinters.me)                                 | 
 
-
 #### recent productivity
 
 ```shell
