@@ -1,6 +1,5 @@
 #### qwinters = Quinn Winters
 [email](mailto:email--at--quinnwinters--dot--dev) | [blog](https://qwinters.me) | [cv](mailto:email--at--quinnwinters--dot--dev) | [linkedin](https://linkedin.com/in/qwinters)
-
 #### recent productivity
 ```shell
 # TODO PROGRESS BEGIN #
