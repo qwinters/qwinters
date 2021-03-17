@@ -3,7 +3,13 @@
 #### recent productivity
 ```shell
 # TODO PROGRESS BEGIN #
- Usage: todo.sh [-fhpantvV] [-d todo_config] action [task_number] [task_description]
-Try 'todo.sh -h' for more information.
+ 
+2021-03-11: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 4
+2021-03-12: 0
+2021-03-13: 0
+2021-03-14: 0
+2021-03-15: 0
+2021-03-16: 0
+2021-03-17: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 7
  # TODO PROGRESS FINISH #
 ```
