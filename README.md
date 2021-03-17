@@ -1,9 +1,6 @@
 #### qwinters = Quinn Winters
-|   contact |                                                                    |
-|----------:|--------------------------------------------------------------------|
-|    email: | [email\<at\>quinnwinters\<dot\>dev](mailto:email@quinnwinters.dev) |
-| dotfiles: | [qwinters/dotfiles](https://github.com/qwinters/dotfiles)          |
-|  website: | [qwinters.me](https://qwinters.me)                                 | 
+[email](mailto:email--at--quinnwinters--dot--dev) | [blog](https://qwinters.me) | [cv](mailto:email--at--quinnwinters--dot--dev) | [linkedin](https://linkedin.com/in/qwinters)
+
 #### recent productivity
 ```shell
 # TODO PROGRESS BEGIN #
