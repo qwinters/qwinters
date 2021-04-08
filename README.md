@@ -6,6 +6,8 @@ Like the work I do and want to support me?
 
 Want to get something on my radar?
 
-<a class="github-button" href="https://github.com/qwinters/qwinters/issues" data-color-scheme="no-preference: light; light: light; dark: light;" data-size="large" data-show-count="true" aria-label="Issue qwinters/qwinters on GitHub">Issue</a>
+<a href="https://github.com/qwinters/qwinters/issues/new/choose/">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/qwinters/qwinters?color=orange&label=%E2%9C%85%20%20%20File%20an%20issue&style=flat-square">
+</a>
 
 If you file a blank issue, I'll follow up with you privately. 
